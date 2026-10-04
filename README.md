@@ -6,7 +6,7 @@
 
 **Completed:** September 2026
 
-**Project type:** Simulated incident analysis
+**Project type:** Simulated Incident Analysis
 
 ## Overview
 
