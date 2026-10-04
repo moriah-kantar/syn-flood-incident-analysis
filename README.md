@@ -1,8 +1,11 @@
 # TCP SYN Flood Incident Analysis
 
 **Author:** Moriah Kantar
+
 **Course:** Google Cybersecurity Professional Certificate
+
 **Completed:** September 2026
+
 **Project type:** Simulated incident analysis
 
 ## Overview
